@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/manjunadha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjunadha" height="30" width="40" /></a>
+<a href="https://twitter.com/ManjunadhaD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="manjunadha" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manjunadha-sarma-dandibhotla-2661441bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manjunadhadandibhotla" height="30" width="40" /></a>
 <a href="https://www.instagram.com/manju.nadha_10/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manju_nadha_10" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/manjunadhadandi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="manjunadha dandibhotla" height="30" width="40" /></a>
