@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-<p align="left"> <img src="https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing" alt="manjunadha2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ManjunadhaD" target="_blank"><img src="https://img.shields.io/twitter/follow/manjunadha?logo=twitter&style=for-the-badge" alt="manjunadha" /></a> </p>
 
