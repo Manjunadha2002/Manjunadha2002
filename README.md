@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack Developer.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunadha2002&label=Profile%2"0views&color=0e75b6&style=flat" alt="manjunadha2002" /> </p>
+<p align="left"> <img src="https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing" alt="manjunadha2002" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ManjunadhaD" target="_blank"><img src="https://img.shields.io/twitter/follow/manjunadha?logo=twitter&style=for-the-badge" alt="manjunadha" /></a> </p>
 
@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **manjunadhadandibhotla@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing](https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing)
+- 📄 Know about my Experiences and Projects [https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing](https://drive.google.com/file/d/1lPddhVtvmGPKcYrPk2p22ojvxBXaS9mR/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
