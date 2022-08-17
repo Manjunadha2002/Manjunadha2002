@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manjunadha2002&label=Profile%2"0views&color=0e75b6&style=flat" alt="manjunadha2002" /> </p>
 
-<p align="left"> <a href="https://twitter.com/manjunadha" target="blank"><img src="https://img.shields.io/twitter/follow/manjunadha?logo=twitter&style=for-the-badge" alt="manjunadha" /></a> </p>
+<p align="left"> <a href="https://twitter.com/ManjunadhaD" target="_blank"><img src="https://img.shields.io/twitter/follow/manjunadha?logo=twitter&style=for-the-badge" alt="manjunadha" /></a> </p>
 
 - 🌱 I’m currently learning **ReactJs, Backend Development**
 
